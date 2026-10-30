@@ -102,7 +102,9 @@ Learning Outcomes
 - Handling user input and GUI events.
 - Implementing basic catalog operations such as adding, searching,
   borrowing, and returning books.
+--
 Author
 Divya Rawat
+--
 This project was developed for academic purposes as a demonstration of
 Python Object-Oriented Programming and Tkinter GUI development.
